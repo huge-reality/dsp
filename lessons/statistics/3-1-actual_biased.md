@@ -37,4 +37,4 @@
 
 
 
->> **If you asked children how many children were in their family, you would get a biased response because children from large families would be more likely to respond, and families with no children would not get a chance to respond at all. The biased sample yields a mean of 2.4 children per family, as compared to the actual mean of 1.02 children per family.
+>> **If you asked children how many children were in their family, you would get a biased response because children from large families would be more likely to respond, and families with no children would not get a chance to respond at all. The biased sample yields a mean of 2.4 children per family, as compared to the actual mean of 1.02 children per family.**
