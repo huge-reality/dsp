@@ -18,4 +18,4 @@
 
 >> thinkplot.Config(xlabel='variable', ylabel='cumulative dist')
 
->>>> **Looking at the CDF, the distribution is not quite uniform, but pretty close. Presumably, with a larger amount of numbers generated, the distribution would get closer to uniformity.
+>>>> **Looking at the CDF, the distribution is not quite uniform, but pretty close. Presumably, with a larger amount of numbers generated, the distribution would get closer to uniformity.**
